@@ -1,5 +1,3 @@
-# Hola !! 
-
 Welcome to my web portfolio. I'll be posting my personal projects soon.
 
 ## Profile:
