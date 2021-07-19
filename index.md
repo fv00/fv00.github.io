@@ -2,9 +2,9 @@ Welcome to my web portfolio. I'll be posting my personal projects soon.
 
 ## Profile:
 
-Undergraduate in statistics, interested in data science, machine learning, database management, and backend development. Solid bases using python, R, and SQL. Knowing OOP using java and javascript, Actually learning Django.
+Undergraduate in statistics, interested in data science, machine learning, database management, and backend development. Solid bases using python, R, and SQL. Knowing OOP using java and javascript, currently learning Django.
 
-## Realized projects in spanish:
+## Projects in spanish:
 
 ### Ramilia:
 
