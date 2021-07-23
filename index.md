@@ -2,7 +2,7 @@ Welcome to my web portfolio. I'll be posting my personal projects soon.
 
 ## Profile:
 
-Undergraduate in statistics, interested in data science, machine learning, database management, and backend development. Solid bases using python, R, and SQL. Knowing OOP using java and javascript, currently learning Django.
+Sixth-semester student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science, artificial intelligence, and interest in backend development. With a solid background in programming, relational databases, and office automation tools.
 
 ## Projects in spanish:
 
