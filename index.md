@@ -12,3 +12,8 @@ Aplicación realizada en equipo para la materia de Técnicas en Aprendizaje Esta
 
 [Enlace para ir a Ramilia](https://isabelaunal.shinyapps.io/AppPredecirHijos/)
 
+### Ejercicio de segmentación:
+
+Ejercicio de segmentación de una base de datos simulada para la asignatura deTécnicas en Aprendizaje Estadístico en la Universidad Nacional de Colombia sede Medellín. Fuerte trabajo en preprocesamiento de datos, feature engineering e implementación de KNN para agrupamiento de datos.
+
+[Enlace de Rpubs para acceder a la segmentación](https://rpubs.com/santiagofv00/795887)
