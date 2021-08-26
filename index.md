@@ -2,7 +2,7 @@ Welcome to my web portfolio. I'll be posting my personal projects soon.
 
 ## Profile:
 
-Sixth-semester student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science, artificial intelligence, and interest in backend development. With a solid background in programming, relational databases, and office automation tools.
+Student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science, artificial intelligence, and interest in backend development. With a solid background in programming, relational databases, and office automation tools.
 
 ## Projects in spanish:
 
