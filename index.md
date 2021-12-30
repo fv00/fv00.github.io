@@ -2,7 +2,7 @@ On this page I'll be sharing a little about me.
 
 ## Perfil/Profile:
 
-Estudiante de estadística en la Universidad Nacional de Colombia sede Medellín, con conocimiento en ciencia de datos, inteligencia artificial y bases solidas en programación. Aspiro en algún momento a ser capaz de diseñar a escala soluciones en las que intervengan flujos de datos y a resolver problemas mediante el uso de herramientas analíticas.
+Estudiante de estadística en la Universidad Nacional de Colombia sede Medellín, con conocimiento en ciencia de datos, inteligencia artificial y bases solidas en programación. Aspiro en algún momento a ser capaz de diseñar a escala soluciones en las que mediante el uso de herramientas analíticas y tecnologías en la nube se intervengan problemas relacionados con los datos.
 
 Student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science and artificial intelligence. With a solid background in programming.
 
