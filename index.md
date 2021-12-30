@@ -1,8 +1,10 @@
-Welcome to my web portfolio. I'll be posting my personal projects soon.
+On this page I'll be sharing a little about me.
 
-## Profile:
+## Perfil/Profile:
 
-Student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science, artificial intelligence, and interest in backend development. With a solid background in programming, relational databases, and office automation tools.
+Estudiante de estadística en la Universidad Nacional de Colombia sede Medellín, con conocimiento en ciencia de datos, inteligencia artificial y bases solidas en programación, manejo de bases de datos relacionales y herramientas de automatización. Aspiro en algún momento a ser capaz de diseñar a escala soluciones en las que intervengan flujos de datos.
+
+Student of the statistics program at the National University of Colombia, Medellin Branch, emphasizes data science and artificial intelligence. With a solid background in programming, relational databases, and automation tools.
 
 ## Projects in spanish:
 
